@@ -24,6 +24,4 @@ fido=Dog.new
 <<<<<<< HEAD
 fido.bark
 
-=======
-fido.bark
->>>>>>> 384da53bb72c0c74491a8a2787d9f5d303894371
+
