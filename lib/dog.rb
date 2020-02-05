@@ -21,7 +21,6 @@ end
   end
 end
 fido=Dog.new
-<<<<<<< HEAD
-fido.bark
+
 
 
